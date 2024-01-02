@@ -92,16 +92,18 @@ ConfPlus is a Conference Management System designed to facilitate the organizati
 
 ## UI
 <div style="display: flex;" align="center">
-  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/00b3c474-7c1b-4c1b-8686-509d023df36b" alt="image" width="300" height="800">
-  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/73263a5c-da03-4e98-b00c-c5ec111da1da" alt="image" width="500" height="400">
+  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/00b3c474-7c1b-4c1b-8686-509d023df36b" alt="image" width="207" height="846">
+  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/73263a5c-da03-4e98-b00c-c5ec111da1da" alt="image" width="512" height="595">
 </div>
+<br>
 
 <div style="display: flex;" align="center">
-  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/29af059b-2f6d-467d-81af-d1d88022fe37" alt="image" width="300" height="800">
-  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/6dfa9167-9a70-492e-a05b-f723ba485d3f" alt="image" width="500" height="400">
+  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/29af059b-2f6d-467d-81af-d1d88022fe37" alt="image" width="207" height="846">
+  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/a65879d9-8d97-4635-afa8-15f711454b57" alt="image" width="256" height="618">
 </div>
+<br>
 
 <div style="display: flex;" align="center">
-  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/85a4f0dc-463b-41ee-beea-31e5585ee758" alt="image" width="300" height="800">
-  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/48266767-259e-4f58-abe2-d7283e560a98" alt="image" width="500" height="400">
+  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/09644308-e6ea-49ee-a702-b86c8171830c" alt="image" width="207" height="846">
+  <img src="https://github.com/Salma-Eletreby/ConfPlus-Web/assets/142803990/5ccdd2b6-26e0-46fd-82d4-23fecfa31ea3" alt="image" width="512" height="610">
 </div>
