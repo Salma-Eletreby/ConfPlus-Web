@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Qatar University",
+    "location": "Doha, Qatar",
+    "established": "1977"
+  },
+  {
+    "name": "Hamad Bin Khalifa University",
+    "location": "Doha, Qatar",
+    "established": "2010"
+  },
+  {
+    "name": "Carnegie Mellon University in Qatar",
+    "location": "Doha, Qatar",
+    "established": "2004"
+  },
+  {
+    "name": "Texas A&M University at Qatar",
+    "location": "Education City, Qatar",
+    "established": "2003"
+  },
+  {
+    "name": "Northwestern University in Qatar",
+    "location": "Doha, Qatar",
+    "established": "2008"
+  },
+  {
+    "name": "Harvard University",
+    "location": "Cambridge, Massachusetts",
+    "established": "1636"
+  },
+  {
+    "name": "Stanford University",
+    "location": "Stanford, California",
+    "established": "1885"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "location": "Cambridge, Massachusetts",
+    "established": "1861",
+    "rank": "3"
+  },
+  {
+    "name": "California Institute of Technology",
+    "location": "Pasadena, California",
+    "established": "1891"
+  },
+  {
+    "name": "University of Cambridge",
+    "location": "Cambridge, United Kingdom",
+    "established": "1209"
+  }
+]

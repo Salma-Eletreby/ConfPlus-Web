@@ -1,0 +1,284 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Inter", sans-serif;
+  font-size: var(0.85rem);
+  line-height: 1.8;
+  color: white;
+}
+
+body {
+  grid-template-columns: auto;
+  grid-template-rows: 2fr auto auto;
+  grid-template-areas:
+    "header"
+    "body"
+    "footer";
+}
+
+header {
+  grid-area: header;
+}
+
+main {
+  grid-area: body;
+}
+
+footer {
+  grid-area: footer;
+}
+
+.above {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+#nav-top ul {
+  list-style-type: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+#nav-top a {
+  text-align: center;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #6a7ae8;
+  transition: 0.2s;
+}
+
+.header {
+  text-align: center;
+  background-image: url("https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148874050.jpg?size=626&ext=jpg&ga=GA1.2.606593679.1649767196&semt=sph");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  display: block;
+  border-radius: 50%;
+  width: 4rem;
+  padding: 0.5em;
+  margin: auto;
+}
+
+.headline {
+  padding: 3rem;
+}
+.headline h1 {
+  color: white;
+}
+
+span {
+  color: #b5c2f6;
+}
+
+.slogan {
+  font-weight: bold;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
+.btn {
+  padding: 0.5rem;
+  border-radius: 2rem;
+  border: none;
+  margin: 1rem;
+}
+
+.btn:hover {
+  background: #b5c2f6;
+  box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+  transition: 0.3s;
+}
+
+.btn-srch {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+body {
+  background-image: radial-gradient(
+    circle,
+    #020f22,
+    #04172f,
+    #041e3d,
+    #06244b,
+    #0b2b5a
+  );
+}
+
+body {
+  text-align: center;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.bottom {
+  display: flex;
+  flex-direction: column;
+  gap: 3em;
+  text-align: center;
+  padding: 3em;
+  font-size: 0.7em;
+  justify-content: center;
+  height: 100%;
+}
+
+.bottom img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search hr {
+  opacity: 0.4;
+  margin-top: 0.5rem;
+}
+
+.copyright {
+  font-size: 0.5em;
+  text-align: center;
+  padding: 0.5em;
+}
+
+#quccEm {
+  color: #687eed;
+}
+
+#quccEm:hover {
+  text-decoration: underline;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#sched-Area {
+  display: block;
+  overflow-x: scroll;
+  height: 100%;
+}
+
+.session {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: rgba(255, 255, 255, 0.482) 0px 7px 29px 0px;
+  /* background-color: rgba(0, 0, 0, 0.269); */
+  border-radius: 0.5rem;
+  align-self: center;
+  margin: 3rem;
+  justify-content: center;
+}
+
+.gen-detail {
+  border: 1px solid white;
+  text-align: center;
+  /* box-shadow: rgba(255, 255, 255, 0.482) 0px 0px 29px 0px; */
+  background-color: rgba(0, 0, 0, 0.269);
+}
+
+.paper-details div {
+  border-bottom: 1px solid white;
+}
+
+#date {
+  white-space: nowrap;
+}
+
+@media screen and (min-width: 600px) {
+  .icon {
+    display: none;
+  }
+
+  .header {
+    background-size: 100%;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: 1fr auto;
+    grid-template-areas:
+      "logo navg"
+      "slogan slogan";
+  }
+
+  .above {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  #nav-top ul {
+    display: flex;
+    gap: 3rem;
+    grid-area: navg;
+    margin-right: 1rem;
+  }
+
+  header .logo {
+    grid-area: logo;
+  }
+
+  .bottom {
+    flex-direction: row;
+    text-align: left;
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+
+  .thanks {
+    text-align: center;
+    max-width: 30%;
+  }
+
+  .links {
+    padding-right: 3rem;
+  }
+
+  .session {
+    flex-direction: row;
+  }
+
+  .session .gen-detail {
+    padding: 1rem;
+  }
+
+  .paper-details {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  div p,
+  div h4 {
+    padding: 0.5rem;
+  }
+
+  /* .session div{
+    border: none;
+  } */
+}

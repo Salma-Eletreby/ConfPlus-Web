@@ -1,0 +1,42 @@
+[
+    {
+        "building": "College of Engineering C07",
+        "room": "145"
+    },
+    {
+        "building": "College of Business H08",
+        "room": "A234"
+    },
+    {
+        "building": "College of Education I10",
+        "room": "B659"
+    },
+    {
+        "building": "College of Arts and Sciences C01",
+        "room": "F106"
+    },
+    {
+        "building": "Library B13",
+        "room": "C590"
+    },
+    {
+        "building": "College of Engineering C07",
+        "room": "241"
+    },
+    {
+        "building": "College of Business H08",
+        "room": "B143"
+    },
+    {
+        "building": "College of Education I10",
+        "room": "A543"
+    },
+    {
+        "building": "College of Arts and Sciences C01",
+        "room": "C111"
+    },
+    {
+        "building": "Library B13",
+        "room": "A103"
+    }
+]

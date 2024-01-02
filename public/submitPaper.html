@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modify Schedule</title>
+    <link rel="stylesheet" href="styles/viewConf.css">
+    <link rel="stylesheet" href="styles/confSched.css">
+    <link rel="stylesheet" href="styles/submitPaper.css">
+    <link rel="stylesheet" href="https://kit.fontawesome.com/0c88d717fc.css" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/0c88d717fc.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="above">
+            <div class="top">
+                <img src="https://www.a-m-a.co.uk/wp-content/uploads/2022/12/Generic-conference-logo.png" alt="logo" class="logo">
+            </div>
+            
+            <nav id="nav-top">
+                <ul>
+                    <li><a href="submitPaper.html">Submit Paper</a></li>
+                    <li><a href="viewConfSched.html">View Schedule</a></li>
+                    <li><a href="confSched.html">Create and Update Schedule</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <h1>Submit Paper</h1>
+
+        <section class="submit-paper">
+            <form action="" method="post" id="p-form">
+                <div id="paper-form">
+                    <fieldset id="paper">
+                        <Legend>Paper Details</Legend>
+                        <div class="pap-details">
+                            <label for="paper-title">Paper Title </label>
+                            <input type="text" name="title" id="title" class="input" placeholder="Paper Title" required>
+                            <br> <br>
+                            <label for="abstract">Paper Abstract </label>
+                            <textarea name="abstract" id="abstract" cols="30" rows="10" required>Enter Paper Abstract here</textarea>
+
+                            <br>
+                            <label for="fileInput">Paper PDF </label>
+                            <input type="file" id="fileInput" />
+                        </div>
+                    </fieldset>
+                    <br>
+                    <fieldset id="authors">
+
+                    </fieldset>
+                </div>
+                <input type="submit" name="submit" id="submit" class="btn btn-submit">                
+            </form>
+        </section>
+    </main>
+    <footer>
+        <div class="bottom">
+            <div class="thanks">
+                <img src="https://www.a-m-a.co.uk/wp-content/uploads/2022/12/Generic-conference-logo.png" alt="logo" class="logo">
+                <p id="thanks">Thanks for visiting our website. You can email us-<a href="mailto:salmashady144@gmail.com" id="quccEm">confPlusCus@cof.com</a></p>
+            </div>
+
+            <ul class="links">
+                <h4>Quick Links</h4>
+                <li><a href="">Join us</a></li>
+                <li><a href="">About Us</a></li>
+                <li><a href="">Contact Us</a></li>
+            </ul>
+
+            <ul class="links">
+                <h4>Communication</h4>
+                <li><a href="">Facebook</a></li>
+                <li><a href="">Twitter</a></li>
+                <li><a href="">Instagram</a></li>
+            </ul>
+        </div>
+        <hr>
+        <p class="copyright">&copy; Copyright 2023 <span>CMPS350 Web Dev<span></p>
+    </footer>
+    <script src="JS/submitPaper.js"></script>
+</body>
+</html>

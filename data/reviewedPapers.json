@@ -1,0 +1,178 @@
+[
+  {
+    "id": "20230407123456",
+    "title": "A New Approach to Artificial Intelligence",
+    "abstract": "In this paper, we present a new approach to artificial intelligence that utilizes advanced algorithms and machine learning techniques to improve performance and accuracy.",
+    "evaluation": 4,
+    "authors": [
+      {
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "johndoe@example.com",
+        "affiliation": "University of Technology",
+        "presenter": true
+      },
+      {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "janesmith@example.com",
+        "affiliation": "University of Science",
+        "presenter": false
+      }
+    ]
+  },
+  {
+    "id": "1650451297537",
+    "title": "A Comparative Study of Machine Learning Algorithms",
+    "abstract": "In this paper, we present a comparative study of various machine learning algorithms and evaluate their performance in different scenarios.",
+    "evaluation": 3,
+    "authors": [
+      {
+        "first_name": "Bob",
+        "last_name": "Johnson",
+        "email": "bobjohnson@example.com",
+        "affiliation": "University of Engineering",
+        "presenter": false
+      },
+      {
+        "first_name": "Alice",
+        "last_name": "Williams",
+        "email": "alicewilliams@example.com",
+        "affiliation": "University of Technology",
+        "presenter": true
+      }
+    ]
+  },
+  {
+    "id": "1650451304435",
+    "title": "Deep Learning for Image Classification",
+    "abstract": "This paper proposes a deep learning framework for image classification, which can achieve state-of-the-art performance on benchmark datasets.",
+    "evaluation": 5,
+    "authors": [
+      {
+        "first_name": "David",
+        "last_name": "Lee",
+        "email": "davidlee@example.com",
+        "affiliation": "University of Science",
+        "presenter": false
+      },
+      {
+        "first_name": "Emma",
+        "last_name": "Smith",
+        "email": "emmasmith@example.com",
+        "affiliation": "University of Technology",
+        "presenter": true
+      }
+    ]
+  },
+  {
+    "id": "1650451308241",
+    "title": "Natural Language Processing with Recurrent Neural Networks",
+    "abstract": "This paper explores the use of recurrent neural networks for natural language processing tasks, including sentiment analysis and text generation.",
+    "evaluation": 4,
+    "authors": [
+      {
+        "first_name": "James",
+        "last_name": "Brown",
+        "email": "jamesbrown@example.com",
+        "affiliation": "University of Engineering",
+        "presenter": true
+      },
+      {
+        "first_name": "Sarah",
+        "last_name": "Jones",
+        "email": "sarahjones@example.com",
+        "affiliation": "University of Science",
+        "presenter": false
+      }
+    ]
+  },
+  {
+    "id": "1650451315376",
+    "title": "Automated Testing for Software Quality Assurance",
+    "abstract": "This paper presents an automated testing approach for software quality assurance, which can help detect bugs and improve code quality.",
+    "evaluation": 4,
+    "authors": [
+      {
+        "first_name": "Michael",
+        "last_name": "Johnson",
+        "email": "michaeljohnson@example.com",
+        "affiliation": "University of Technology",
+        "presenter": false
+      },
+      {
+        "first_name": "Emily",
+        "last_name": "Lee",
+        "email": "emilylee@example.com",
+        "affiliation": "University of Science",
+        "presenter": true
+      }
+    ]
+  },
+  {
+    "id": "1650451319475",
+    "title": "Predictive Analytics for Financial Markets",
+    "abstract": "This paper proposes a predictive analytics approach for financial markets, which can help traders make informed decisions and maximize profits.",
+    "evaluation": 5,
+    "authors": [
+      {
+        "first_name": "Jacob",
+        "last_name": "Smith",
+        "email": "jacobsmith@example.com",
+        "affiliation": "University of Engineering",
+        "presenter": false
+      },
+      {
+        "first_name": "Olivia",
+        "last_name": "Williams",
+        "email": "oliviawilliams@example.com",
+        "affiliation": "University of Science",
+        "presenter": true
+      }
+    ]
+  },
+  {
+    "id": "1650461312241",
+    "title": "Cloud Computing for Big Data Analytics",
+    "abstract": "This paper presents a cloud computing framework for big data analytics, which can help process large datasets efficiently and accurately.",
+    "evaluation": 4,
+    "authors": [
+      {
+        "first_name": "Ethan",
+        "last_name": "Brown",
+        "email": "ethanbrown@example.com",
+        "affiliation": "University of Technology",
+        "presenter": true
+      },
+      {
+        "first_name": "Ava",
+        "last_name": "Garcia",
+        "email": "avagarcia@example.com",
+        "affiliation": "University of Science",
+        "presenter": false
+      }
+    ]
+  },
+  {
+    "id": "1650461322618",
+    "title": "Machine Learning for Healthcare Analytics",
+    "abstract": "This paper explores the use of machine learning for healthcare analytics, including disease diagnosis, patient monitoring, and drug discovery.",
+    "evaluation": 3,
+    "authors": [
+      {
+        "first_name": "William",
+        "last_name": "Davis",
+        "email": "williamdavis@example.com",
+        "affiliation": "University of Engineering",
+        "presenter": false
+      },
+      {
+        "first_name": "Sophia",
+        "last_name": "Lopez",
+        "email": "sophialopez@example.com",
+        "affiliation": "University of Science",
+        "presenter": true
+      }
+    ]
+  }
+]
